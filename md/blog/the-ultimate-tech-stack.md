@@ -2,8 +2,8 @@
 title: Choosing a tech stack for my personal dev blog in 2020
 published: true
 datePublished: 1590463136775
-author: Colin McDonnell
-authorTwitter: colinhacks
+author: Michael Macaulay
+authorTwitter: micmac132
 authorPhoto: /img/profile.jpg
 tags:
   - Static Site Generators

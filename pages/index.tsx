@@ -13,12 +13,12 @@ const Home = (props: {
   return (
     <div className="content">
       <Head>
-        <title>Introducing Devii</title>
+        <title>Michael Macaulay's Blog</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <div className="introduction">
-        <h1>Introduction to Devii</h1>
+        <h1>Michael Macaulay's Blog</h1>
         <Markdown source={props.introduction} />
       </div>
 
@@ -65,25 +65,19 @@ const Home = (props: {
         </blockquote>
       </div>
 
-      {/* <div className="section">
+      <div className="section">
         <h2>README.md</h2>
         <p>
           Below is the README.md for devii. It was imported and rendered using
           Next.js dynamic imports. The rest of this page (including this
           paragraph) are rendered with React. You can also read the README on
           GitHub at{' '}
-          <a href="https://github.com/colinhacks/devii">
+          {/* <a href="https://github.com/colinhacks/devii">
             https://github.com/colinhacks/devii
-          </a>
+          </a> */}
           .
         </p>
-      </div> */}
-
-      {/* <div className="section alternate">
-        <div className="narrow">
-          <Markdown source={props.readme} />
-        </div>
-      </div> */}
+      </div>
 
       <div className="section alternate">
         <h2 className="centered">Get started</h2>

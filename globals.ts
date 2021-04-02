@@ -1,11 +1,11 @@
 export namespace globals {
-  export const yourName = 'Alyssa P. Hacker';
-  export const siteName = 'My Awesome Blog';
-  export const siteDescription = 'I write about code \'n stuff';
-  export const siteCreationDate = 'March 3, 2020 04:00:00 GMT';
-  export const twitterHandle = '@alyssaphacker';
-  export const email = 'alyssa@example.com';
-  export const url = 'https://alyssaphacker.com';
-  export const accentColor = '#4fc2b4';
-  export const googleAnalyticsId = ``; // e.g. 'UA-999999999-1'
+  export const yourName = 'Michael Macaulay';
+  export const siteName = 'Michael Macaulay';
+  export const siteDescription = 'I write about crypto \'n code';
+  export const siteCreationDate = 'April 2, 2021 04:00:00 GMT';
+  export const twitterHandle = '@micmac132';
+  export const email = 'michaelmacaulay33@gmail.com';
+  export const url = 'https://micmac.dev';
+  export const accentColor = '#0465b2';
+  export const googleAnalyticsId = `174136005`; // e.g. 'UA-999999999-1'
 }

@@ -1,30 +1,30 @@
 {
-  "name": "devii",
+  "name": "Michael Macaulay Blog",
   "version": "0.5.0",
-  "description": "A Medium inspired dev blog starter for Next.js",
+  "description": "Collection of Michael Macaulay's essays, tutorials and guides.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/colinhacks/devii"
+    "url": "https://github.com/MichaelMacaulay/Personal-Blog"
   },
   "author": "Colin McDonnell <colin@colinhacks.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/colinhacks/devii/issues"
+    "url": "https://github.com/MichaelMacaulay/Personal-Blog/issues"
   },
-  "homepage": "https://github.com/colinhacks/devii",
+  "homepage": "https://github.com/MichaelMacaulay/Personal-Blog",
   "tags": [
-    "blog template",
-    "react",
-    "nextjs",
-    "syntax highlighting",
-    "static generation"
+    "Cryptocurrency",
+    "Programming",
+    "Blockchain",
+    "Bitcoin",
+    "code"
   ],
   "keywords": [
-    "blog template",
-    "react",
-    "nextjs",
-    "syntax highlighting",
-    "static generation"
+    "Cryptocurrency",
+    "Programming",
+    "Blockchain",
+    "Bitcoin",
+    "code"
   ],
   "scripts": {
     "dev": "next dev",
