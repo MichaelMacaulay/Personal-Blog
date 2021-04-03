@@ -1,12 +1,12 @@
 {
-  "name": "Michael Macaulay Blog",
+  "name": "michael-macaulay-blog",
   "version": "0.5.0",
   "description": "Collection of Michael Macaulay's essays, tutorials and guides.",
   "repository": {
     "type": "git",
     "url": "https://github.com/MichaelMacaulay/Personal-Blog"
   },
-  "author": "Colin McDonnell <colin@colinhacks.com>",
+  "author": "Michael Macaulay <MichaelMacaulay33@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MichaelMacaulay/Personal-Blog/issues"
